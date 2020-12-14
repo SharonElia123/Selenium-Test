@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GRID SAMPLE TEST]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="methods" name="Sample test(failed)">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="TestMain.TestNg">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testSearchItems"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- TestMain.TestNg -->
+    </classes>
+  </test> <!-- Sample test(failed) -->
+</suite> <!-- Failed suite [GRID SAMPLE TEST] -->

@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="opentelemetry-sdk-0.9.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/opentelemetry-sdk-0.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/opentelemetry-api-0.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/selenium-chromium-driver-4.0.0-alpha-7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/opentelemetry-sdk-common-0.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/selenium-json-4.0.0-alpha-7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/brave-5.12.7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-codec-dns-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-transport-native-kqueue-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-handler-4.1.43.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-transport-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/opentelemetry-context-prop-0.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-handler-proxy-4.1.48.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/auto-service-annotations-1.0-rc7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/byte-buddy-1.10.18.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-codec-http2-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/opentelemetry-sdk-baggage-0.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/jsr305-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-codec-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/selenium-api-4.0.0-alpha-7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/reactor-netty-http-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/reactor-netty-core-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-codec-http-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/opentelemetry-sdk-tracing-0.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/auto-common-0.10.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/auto-service-1.0-rc7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-resolver-dns-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-transport-native-epoll-4.1.53.Final-linux-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/async-http-client-2.12.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-codec-socks-4.1.48.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-transport-native-epoll-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-resolver-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/commons-exec-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/reactor-netty-http-brave-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/checker-qual-3.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-transport-native-kqueue-4.1.53.Final-osx-x86_64.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-reactive-streams-2.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/selenium-devtools-4.0.0-alpha-7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/async-http-client-netty-utils-2.12.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/error_prone_annotations-2.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/opentelemetry-sdk-metrics-0.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-common-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/grpc-context-1.32.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/brave-instrumentation-http-5.12.7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/reactor-core-3.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/guava-30.0-jre.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/selenium-http-4.0.0-alpha-7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/selenium-chrome-driver-4.0.0-alpha-7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-transport-native-unix-common-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/netty-buffer-4.1.53.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/selenium-remote-driver-4.0.0-alpha-7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/zipkin-2.21.7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/zipkin-reporter-2.15.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Se/ff/zipkin-reporter-brave-2.15.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
