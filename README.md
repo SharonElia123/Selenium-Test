@@ -10,3 +10,5 @@ Selenium Test
 4. POM--> Which elements we are need to locate.
 5. Utility--> Define the Base driver, which browser to run, Screen shut.
 Also, we have the TestNg Runner
+Thanks,
+Sharon Maymon
