@@ -5,7 +5,7 @@
     <test name = "Veev test" parallel = "methods">
         <parameter name = "browserName" value="Chrome"/>
         <parameter name = "nameSearch" value="חיפוש תמונות"/>
-        <parameter name = "listNumber1" value="13"/>
+        <parameter name = "listNumber" value="13"/>
         <classes>
             <class name = "TestMain.TestNg" />
         </classes>
