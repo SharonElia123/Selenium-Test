@@ -20,10 +20,8 @@ public class SeleniumGrid {
 
         DesiredCapabilities capability = new DesiredCapabilities();
         capability.setCapability("browserName","chrome");
-
-        //capability.setCapability("browserName","internet explorer");
         driver = new RemoteWebDriver(new URL(nodeURL), capability);
-        String sh="ddff";
+
     }
 
     @AfterTest

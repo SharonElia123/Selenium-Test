@@ -21,14 +21,11 @@ public class SeleniumGridIE {
 
         baseURL = "http://Google.com/";
         nodeURL = "http://192.168.1.230:4444/wd/hub";
-
         DesiredCapabilities capability = new DesiredCapabilities();
-        //capability.setCapability("browserName","chrome");
         capability.setCapability("browserName","internet explorer");
         driver = new RemoteWebDriver(new URL(nodeURL), capability);
-        String sh="ddff";
-    }
 
+    }
     @AfterTest
     public void afterTest() {
         driver.quit();

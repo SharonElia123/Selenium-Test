@@ -16,31 +16,24 @@ class TestNg {
         Log.startTestCase("Selenium_Test_001");
         GetPageAction.StartGooglePage(browserName);
     }
-
+    @Parameters("nameSearch")
     @Test
-    public void TestImagesLinkGooglePage() throws Exception {
+    public void TestImagesLinkGooglePage(String nameSearch) throws Exception {
         Log.info("Found Images Link Name");
         String language= GetPageAction.GetLinkImagesGoogle();
-        assertEquals(language,"חיפוש תמונות");
+        assertEquals(language,nameSearch);
     }
 
+    @Parameters("listNumber")
     @Test
-    public void TestButttonLinkGooglePage() throws Exception {
-        Log.info("Found button Link Name");
-        String buttonMame= GetPageAction.GetGoogleButtonName();
-        assertEquals(buttonMame,"חיפוש תמונות");
-
-    }
-    @Test
-    public void testSearchItems() throws Exception {
+    public void testSearchItems(int listNumber) throws Exception {
         Log.info("Search Selenium Items in Google");
         GetPageAction.SearchGooglePage();
         int listSeleniumSize= GetPageAction.FoundListNumber();
-        assertEquals(9,listSeleniumSize);
+        assertEquals(listNumber,listSeleniumSize);
     }
 
     @AfterTest
-
     public void tearDown()
     {
         Util.closeAllDriver();
